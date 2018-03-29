@@ -1,2 +1,2 @@
 # LoadingAnimation
-一款自定义实现的加载等待动画，主要的技术博客讲解
+The Project is Customed design Loading Animation,if you want to learn more,please visit my blog place link http://www.jianshu.com/p/b660eb8b8bc1,Thanks.
